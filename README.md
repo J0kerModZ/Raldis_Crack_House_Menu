@@ -2,7 +2,7 @@ THANK YOU FOR USING J0KERS RALDI CRACK HOUSE MENU
 ---------------------------
 # HOW TO USE:
                
-DOWNLOAD BEPIN EX MONO
+DOWNLOAD BEPIN EX MONO (x64)
 ---------------------------
 Bepin:
 https://github.com/BepInEx/BepInEx/releases/tag/v5.4.21
